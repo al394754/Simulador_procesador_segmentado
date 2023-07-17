@@ -1,0 +1,11 @@
+ - Lee de un fichero las instrucciones y las almacena en ROB
+ - Commit lee la instrucción y actualiza según dst, si dst no marca a ningún rob se elimina (se pone en 0)
+
+ Código de instrucción:
+ - add --> 1
+ - sub --> 2
+ - ld --> 3
+ - sd --> 4
+ - mult --> 5
+
+
